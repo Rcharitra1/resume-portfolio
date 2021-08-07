@@ -1,4 +1,4 @@
 # Resume
 
 _ This is my online portfolio built using bootstarp.
-link - [portfolio-rcharitra.netlify.app]
+<a src="portfolio-rcharitra.netlify.app" alt="Resume">Portfolio</a>
